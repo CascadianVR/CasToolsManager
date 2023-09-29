@@ -1,0 +1,42 @@
+
+{
+    "tools": 
+    [
+        {
+            "name": "VRCMenuTranslator",
+            "url": "https://raw.githubusercontent.com/CascadianVR/VRC-Menu-Translator/main/VRCMenuTranslator.cs"
+        },
+        {
+            "name": "AnimationCombiner",
+            "url": "https://raw.githubusercontent.com/CascadianVR/VRC-Animation-Combiner/main/AnimationCombiner.cs"
+        },
+        {
+            "name": "VRCMenuTranslator",
+            "url": "https://raw.githubusercontent.com/CascadianVR/VRC-Menu-Translator/main/VRCMenuTranslator.cs"
+        },
+        {
+            "name": "AnimationCombiner",
+            "url": "https://raw.githubusercontent.com/CascadianVR/VRC-Animation-Combiner/main/AnimationCombiner.cs"
+        },
+        {
+            "name": "VRCMenuTranslator",
+            "url": "https://raw.githubusercontent.com/CascadianVR/VRC-Menu-Translator/main/VRCMenuTranslator.cs"
+        },
+        {
+            "name": "AnimationCombiner",
+            "url": "https://raw.githubusercontent.com/CascadianVR/VRC-Animation-Combiner/main/AnimationCombiner.cs"
+        },
+        {
+            "name": "VRCMenuTranslator",
+            "url": "https://raw.githubusercontent.com/CascadianVR/VRC-Menu-Translator/main/VRCMenuTranslator.cs"
+        },
+        {
+            "name": "AnimationCombiner",
+            "url": "https://raw.githubusercontent.com/CascadianVR/VRC-Animation-Combiner/main/AnimationCombiner.cs"
+        },
+        {
+            "name": "VRCMenuTranslator",
+            "url": "https://raw.githubusercontent.com/CascadianVR/VRC-Menu-Translator/main/VRCMenuTranslator.cs"
+        }
+    ]
+}
